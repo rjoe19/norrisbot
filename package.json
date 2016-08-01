@@ -1,0 +1,27 @@
+{
+  "name": "norrisbot",
+  "version": "1.0.0",
+  "description": "Annoying and funny Slack chat bot in the guise of Chuck Norris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoe19/norrisbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoe19/norrisbot/issues"
+  },
+  "homepage": "https://github.com/rjoe19/norrisbot#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.4",
+    "util": "^0.10.3"
+  }
+}
